@@ -1,0 +1,18 @@
+.footer {
+	background-color: #2C2B2B;
+	padding: 64px;
+}
+
+.footer p {
+	color: lightgray;
+}
+
+.links a {
+	color: #1EDD88;
+	font-size: 32px;
+}
+
+.heart {
+	color: red;
+	font-size: 24px;
+}

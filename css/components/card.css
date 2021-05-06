@@ -1,0 +1,16 @@
+.card {
+	padding: 24px;
+	width: 200px;
+	border: 1px solid rgb(230, 230, 230);
+	border-radius: 5px;
+	box-shadow: 0 0 5px rgb(230, 230, 230);
+}
+
+.card img {
+	height: 100px;
+}
+
+.wrapper {
+	display: flex;
+	justify-content: space-between;
+}
